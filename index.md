@@ -7,9 +7,12 @@
 var myVar = "Hello, world!";
 ```
 
-- [] Apples
-- [] Oranges
-- [] Grapes
+- [ ] Apples
+- [ ] Oranges
+- [ ] Grapes
+
+
+
 
 
 
